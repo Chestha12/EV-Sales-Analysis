@@ -1,4 +1,9 @@
-# EV-Sales-Analysis
+<h1 align="center" > 🔶 AtliQ Mart 🔶 </h1> 
+<h2 align="center" > Electric Vehicle Sales Analysis And Forecasting </h2> 
+![EV IMAGE](https://github.com/user-attachments/assets/4b6d0b41-f415-4af0-be42-09f3aad5ecbe)
+
+
+
 SQL project to analyze EV sales and growth
 
 These datasets include sales by state, sales by maker, and a date dimension table useful for time-series analysis.
