@@ -1,12 +1,17 @@
 <h1 align="center" > 🔶 AtliQ Mart 🔶 </h1> 
 <h2 align="center" > Electric Vehicle Sales Analysis And Forecasting </h2> 
-![EV IMAGE](Image/EV IMAGE.png)
+<p align="center">
+  <img src="Image/EV_IMAGE.png" alt="EV IMAGE" width="700">
+</p>
 
 
 
-SQL project to analyze EV sales and growth
 
-These datasets include sales by state, sales by maker, and a date dimension table useful for time-series analysis.
+Dataset include 3 CSV files:
+
+1. sales by state, 
+2. sales by maker
+3. date dimension
 
 
 *******************************************
