@@ -1,6 +1,6 @@
 <h1 align="center" > 🔶 AtliQ Mart 🔶 </h1> 
 <h2 align="center" > Electric Vehicle Sales Analysis And Forecasting </h2> 
-! [EV IMAGE](image/EV IMAGE.png
+! [EV IMAGE](image/EV IMAGE.png)
 
 
 
